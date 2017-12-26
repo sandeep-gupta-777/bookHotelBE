@@ -2,8 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18a9795a-5be4-4fba-ba45-03af017a29c1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/03ff4fbb90665f8751df3bf01838770d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/0c250867a8cbbe72c1471aaa76a7a8b1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/0cf74dca294d99c5c681e61c85e78120" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/11411b1b2ffc17c567a7765b0d801cf6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/12d378e5046d0bf68bf9651d61fae4dd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/19cf9d4fa4887010a5024cdea8638e32" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/1b1e7cc95bb1b5f567b2e96eea125f07" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/1d3ccef98e51168fb35b9934c9b12b30" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/20de32216ebfd0964745ada74fc3683c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/267405e873766ee1f16069eebbcea19e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/2c632fb6b02455a4e8d86c3b141fab0f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/342615be7c8d57a1dc3de59f51bf73b5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/3728442abe728edf289d9b4c8aa7792f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/37bad39b2ddadb3ddbbe3d854ba3410c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/38f6a0598b00b104f36df2108f6b6f85" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/39a24fb33a2f140089531d3066c12e40" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/4020f24ae89d640c95031bbb36648cd9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/40df7f0a150efbb29c3ec9af6b88db18" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/41737362ee98ecc183cf8845ac8603b9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/42dfcc219c43e36f9f56eb197daa1ee6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/4609ae5c6db8409cb81a979a566cb004" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/4acbe34a268ffd662143c591cd91a4a7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/4d5c39c195ad01f9abeb17fd69f9c787" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/4f0695b63e6c19f5ab3352531bf35b79" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/5306db023067dae134599afcb339a994" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/53a7d59ce2735313dbea07de1c39f37d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/5b778fabd3aee415f7be05690372074f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/5e37dd4d2d102f9d4b6ff3396d53ecb5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/726e35b1e677134b9afacc120754eb2e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/73dc14e7fd906925fd96334886607979" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/74bd603c49ec5e7c48ff6187b866537b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/7507e42858ce036a7daa50e3b1008498" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/7d59cb24469be8e9acf0e4b28ec4bb08" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/820c0f732e5d8b68b54310f668d3b46a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/84e2825f067650f0fc20957eac4fd3b6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/85fe43622d5034360016cabb1ee60b3e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/917dd78fe87d2a39bc64b158c3c65453" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/9243819a095b901db4a9bf4e4bd4820b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/a7e55ed8f1953e1d0a0d6ef0d77b48cb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/ab2a84ff636e69757a653e87401ee85d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/aea5d698146fe6f55d315fcd9452190e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/b0a722ce7c74cdc7ab269184fbb4511c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/b0d55d7ab46893480d3b0cf6d385df45" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/b8a10227527b68187e3c72d8370a9603" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/bde62fecdb5f201d6d7b7d4f663a421e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/c11ac18a6f50807db8f62a6e6561431f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/c274ceca9d21eb4238e48fb15ee3c1a1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/c487adb345ebcff5a8bc25e8a6e2e6a4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/ce1bc2efc0c2d72257066a5b15658293" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/d66a2e9dfd4f2ae28b796eab3e9f127c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/d77670768d9664213bc21b369f967a30" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/dcdf8ef100da7a874cbe3c8e861d8d87" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/e3e722984910305b10d593ce8351283d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/f2370ff0fed20163146d5d916ba5ada0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/f281786082aff3bb76fa144f204c3598" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/f2eb1ba9d9673ca8c5a5f3058fada542" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/fb26e6f07a4c523337ead6d6d3307e82" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/uploads/ff23bdc0cc032f1a98fd777138b54d1f" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/development.json" afterPath="$PROJECT_DIR$/config/development.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helper/index.js" afterPath="$PROJECT_DIR$/helper/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/app.js" afterPath="$PROJECT_DIR$/routes/app.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,38 +83,38 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aws.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/aws.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
-              <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+              <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="development.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/development.json">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helper/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.hbs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/index.hbs">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="527">
+              <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -64,8 +123,8 @@
       <file leaf-file-name="www" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bin/www">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -94,7 +153,6 @@
       <find>orderimage</find>
       <find>u</find>
       <find>uploa</find>
-      <find>upload</find>
       <find>upload(</find>
       <find>all</find>
       <find>upl</find>
@@ -113,6 +171,7 @@
       <find>orderE</find>
       <find>5a</find>
       <find>$text</find>
+      <find>upload</find>
     </findStrings>
     <replaceStrings>
       <replace>String</replace>
@@ -134,14 +193,14 @@
         <option value="$PROJECT_DIR$/routes/aws.js" />
         <option value="$PROJECT_DIR$/db/index.js" />
         <option value="$PROJECT_DIR$/views/index.hbs" />
-        <option value="$PROJECT_DIR$/helper/index.js" />
         <option value="$PROJECT_DIR$/config/production.json" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/routes/app.js" />
         <option value="$PROJECT_DIR$/routes/user.js" />
         <option value="$PROJECT_DIR$/routes/db.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/config/development.json" />
+        <option value="$PROJECT_DIR$/helper/index.js" />
+        <option value="$PROJECT_DIR$/routes/app.js" />
       </list>
     </option>
   </component>
@@ -191,6 +250,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cartisan_NodeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cartisan_NodeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cartisan_NodeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cartisan_NodeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cartisan_NodeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helper" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -577,7 +664,7 @@
       <workItem from="1512138983683" duration="21322000" />
       <workItem from="1513510326336" duration="14000" />
       <workItem from="1513510365734" duration="68956000" />
-      <workItem from="1514270891159" duration="104000" />
+      <workItem from="1514270891159" duration="3008000" />
     </task>
     <task id="LOCAL-00001" summary="Testing webstorm commits">
       <created>1505811890536</created>
@@ -590,7 +677,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="489037000" />
+    <option name="totallyTimeSpent" value="491941000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -603,6 +690,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-189" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14014752" sideWeight="0.8707015" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855567" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -610,9 +698,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33562586" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49062845" sideWeight="0.4949303" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26350605" sideWeight="0.4949303" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3637516" sideWeight="0.1292985" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3880926" sideWeight="0.626109" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30871004" sideWeight="0.626109" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -635,7 +723,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="549" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/aws.js</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="556" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="557" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -754,6 +850,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="2254" column="24" lean-forward="true" selection-start-line="2254" selection-start-column="24" selection-end-line="2254" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -768,13 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helper/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="285" column="45" lean-forward="true" selection-start-line="285" selection-start-column="45" selection-end-line="285" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -803,20 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2227">
           <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/aws.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -850,14 +926,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -866,18 +934,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/config/development.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/development.json">
+    <entry file="file://$PROJECT_DIR$/bin/www">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/aws.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding />
         </state>
       </provider>

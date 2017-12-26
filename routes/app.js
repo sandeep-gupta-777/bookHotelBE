@@ -4,6 +4,7 @@ const multer = require('multer');
 const helperDB  =  require('./db');
 const helper = require('../helper');
 const userRoutes = require('./user');
+const aws = require('./aws');
 // console.log("in app.js file");
 
 // set the directory for the uploads to the uploaded to
