@@ -76,6 +76,8 @@ router.post('/signup', function (req,res,next) {
                 userCustomID: req.body.userCustomID,
                 userFullName:req.body.userFullName,
                 userEmail:req.body.userEmail,
+                userRole:req.body.userRole,
+                userMobileNumber:req.body.userMobileNumber,
                 userPassword:bcrypt.hashSync(req.body.userPassword,10)//salt = 10 how strong this encryption is
             });
             console.log(user);
